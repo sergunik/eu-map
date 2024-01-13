@@ -1,0 +1,632 @@
+[
+  {
+    "city": "Kyiv",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "population": 2962130,
+    "realEstatePrice": 1800
+  },
+  {
+    "city": "Kharkiv",
+    "lat": 49.9935,
+    "lng": 36.2304,
+    "population": 1433886,
+    "realEstatePrice": 1200
+  },
+  {
+    "city": "Odesa",
+    "lat": 46.4825,
+    "lng": 30.7326,
+    "population": 1015506,
+    "realEstatePrice": 1500
+  },
+  {
+    "city": "Dnipro",
+    "lat": 48.4647,
+    "lng": 35.0462,
+    "population": 984800,
+    "realEstatePrice": 1100
+  },
+  {
+    "city": "Lviv",
+    "lat": 49.8429,
+    "lng": 24.0311,
+    "population": 728369,
+    "realEstatePrice": 1600
+  },
+  {
+    "city": "Donetsk",
+    "lat": 48.0159,
+    "lng": 37.8028,
+    "population": 922973,
+    "realEstatePrice": 800
+  },
+  {
+    "city": "Zaporizhzhia",
+    "lat": 47.8388,
+    "lng": 35.1970,
+    "population": 731117,
+    "realEstatePrice": 1000
+  },
+  {
+    "city": "Luhansk",
+    "lat": 48.5736,
+    "lng": 39.3053,
+    "population": 463495,
+    "realEstatePrice": 700
+  },
+  {
+    "city": "Kryvyi Rih",
+    "lat": 47.9054,
+    "lng": 33.3831,
+    "population": 648875,
+    "realEstatePrice": 900
+  },
+  {
+    "city": "Mykolaiv",
+    "lat": 46.9754,
+    "lng": 32.0005,
+    "population": 483332,
+    "realEstatePrice": 850
+  },
+  {
+  "city": "Paris",
+  "lat": 48.8566,
+  "lng": 2.3522,
+  "population": 2148271,
+  "realEstatePrice": 10000
+},
+{
+  "city": "Lyon",
+  "lat": 45.7597,
+  "lng": 4.8422,
+  "population": 515665,
+  "realEstatePrice": 5600
+},
+{
+  "city": "Marseille",
+  "lat": 43.2965,
+  "lng": 5.3698,
+  "population": 873540,
+  "realEstatePrice": 4500
+},
+{
+  "city": "Toulouse",
+  "lat": 43.6047,
+  "lng": 1.4442,
+  "population": 492108,
+  "realEstatePrice": 3800
+},
+{
+  "city": "Nice",
+  "lat": 43.7034,
+  "lng": 7.2662,
+  "population": 340720,
+  "realEstatePrice": 5800
+},
+{
+  "city": "Bordeaux",
+  "lat": 44.8378,
+  "lng": -0.5795,
+  "population": 250719,
+  "realEstatePrice": 3250
+},
+{
+  "city": "Nantes",
+  "lat": 47.2184,
+  "lng": -1.5536,
+  "population": 379305,
+  "realEstatePrice": 2500
+},
+{
+  "city": "Montpellier",
+  "lat": 43.6108,
+  "lng": 3.8767,
+  "population": 290120,
+  "realEstatePrice": 3250
+},
+{
+  "city": "Lille",
+  "lat": 50.6293,
+  "lng": 3.0573,
+  "population": 232332,
+  "realEstatePrice": 2800
+},
+{
+  "city": "Rennes",
+  "lat": 48.1147,
+  "lng": -1.6794,
+  "population": 221500,
+  "realEstatePrice": 2500
+},
+{
+  "city": "Berlin",
+  "lat": 52.5200,
+  "lng": 13.4050,
+  "population": 3644826,
+  "realEstatePrice": 8000
+},
+{
+  "city": "Hamburg",
+  "lat": 53.5500,
+  "lng": 9.9900,
+  "population": 1841906,
+  "realEstatePrice": 5500
+},
+{
+  "city": "Munich",
+  "lat": 48.1372,
+  "lng": 11.5755,
+  "population": 1550605,
+  "realEstatePrice": 7800
+},
+{
+  "city": "Köln",
+  "lat": 50.9333,
+  "lng": 6.9500,
+  "population": 1080219,
+  "realEstatePrice": 4800
+},
+{
+  "city": "Frankfurt am Main",
+  "lat": 50.1170,
+  "lng": 8.6830,
+  "population": 753951,
+  "realEstatePrice": 6000
+},
+{
+  "city": "Dresden",
+  "lat": 51.0500,
+  "lng": 13.7333,
+  "population": 555435,
+  "realEstatePrice": 3500
+},
+{
+  "city": "Leipzig",
+  "lat": 51.3333,
+  "lng": 12.3667,
+  "population": 519459,
+  "realEstatePrice": 3300
+},
+{
+  "city": "Dortmund",
+  "lat": 51.5167,
+  "lng": 7.4667,
+  "population": 588066,
+  "realEstatePrice": 3600
+},
+{
+  "city": "Stuttgart",
+  "lat": 48.7667,
+  "lng": 9.1833,
+  "population": 634830,
+  "realEstatePrice": 5200
+},
+{
+  "city": "Düsseldorf",
+  "lat": 51.2000,
+  "lng": 6.7667,
+  "population": 621818,
+  "realEstatePrice": 4500
+},
+{
+  "city": "Madrid",
+  "lat": 40.4167,
+  "lng": -3.7039,
+  "population": 3265987,
+  "realEstatePrice": 5000
+},
+{
+  "city": "Barcelona",
+  "lat": 41.3833,
+  "lng": 2.1833,
+  "population": 1601959,
+  "realEstatePrice": 5200
+},
+{
+  "city": "Valencia",
+  "lat": 39.4700,
+  "lng": -0.3700,
+  "population": 809250,
+  "realEstatePrice": 3600
+},
+{
+  "city": "Sevilla",
+  "lat": 37.3883,
+  "lng": -5.9833,
+  "population": 691766,
+  "realEstatePrice": 3400
+},
+{
+  "city": "Málaga",
+  "lat": 36.7200,
+  "lng": -4.4200,
+  "population": 570590,
+  "realEstatePrice": 3300
+},
+{
+  "city": "Bilbao",
+  "lat": 43.2667,
+  "lng": -2.9500,
+  "population": 345839,
+  "realEstatePrice": 4000
+},
+{
+  "city": "Murcia",
+  "lat": 37.9833,
+  "lng": -1.1333,
+  "population": 459190,
+  "realEstatePrice": 2800
+},
+{
+  "city": "A Coruña",
+  "lat": 43.3700,
+  "lng": -8.3800,
+  "population": 244831,
+  "realEstatePrice": 3000
+},
+{
+  "city": "Valladolid",
+  "lat": 41.6667,
+  "lng": -4.7000,
+  "population": 329238,
+  "realEstatePrice": 2500
+},
+{
+  "city": "Granada",
+  "lat": 37.1833,
+  "lng": -3.5833,
+  "population": 232919,
+  "realEstatePrice": 3200
+},
+{
+  "city": "Rome",
+  "lat": 41.9028,
+  "lng": 12.4963,
+  "population": 2761632,
+  "realEstatePrice": 7000
+},
+{
+  "city": "Milan",
+  "lat": 45.4667,
+  "lng": 9.1900,
+  "population": 1371498,
+  "realEstatePrice": 5500
+},
+{
+  "city": "Naples",
+  "lat": 40.8500,
+  "lng": 14.2600,
+  "population": 914758,
+  "realEstatePrice": 3500
+},
+{
+  "city": "Turin",
+  "lat": 45.0699,
+  "lng": 7.6889,
+  "population": 848885,
+  "realEstatePrice": 3200
+},
+{
+  "city": "Palermo",
+  "lat": 38.1158,
+  "lng": 13.3500,
+  "population": 630828,
+  "realEstatePrice": 2800
+},
+{
+  "city": "Genoa",
+  "lat": 44.4097,
+  "lng": 8.9455,
+  "population": 560688,
+  "realEstatePrice": 3000
+},
+{
+  "city": "Bologna",
+  "lat": 44.4941,
+  "lng": 11.3425,
+  "population": 392203,
+  "realEstatePrice": 3400
+},
+{
+  "city": "Florence",
+  "lat": 43.7696,
+  "lng": 11.2558,
+  "population": 367150,
+  "realEstatePrice": 4000
+},
+{
+  "city": "Bari",
+  "lat": 41.1308,
+  "lng": 16.8578,
+  "population": 316140,
+  "realEstatePrice": 2500
+},
+{
+  "city": "Catania",
+  "lat": 37.5069,
+  "lng": 15.0872,
+  "population": 298324,
+  "realEstatePrice": 2600
+},
+{
+  "city": "London",
+  "lat": 51.5079,
+  "lng": -0.0876,
+  "population": 8991646,
+  "realEstatePrice": 8500
+},
+{
+  "city": "Birmingham",
+  "lat": 52.4866,
+  "lng": -1.9097,
+  "population": 1139960,
+  "realEstatePrice": 3200
+},
+{
+  "city": "Leeds",
+  "lat": 53.7975,
+  "lng": -1.5505,
+  "population": 793790,
+  "realEstatePrice": 2700
+},
+{
+  "city": "Glasgow",
+  "lat": 55.8642,
+  "lng": -4.2518,
+  "population": 632053,
+  "realEstatePrice": 2500
+},
+{
+  "city": "Sheffield",
+  "lat": 53.3833,
+  "lng": -1.4667,
+  "population": 550255,
+  "realEstatePrice": 2300
+},
+{
+  "city": "Manchester",
+  "lat": 53.4808,
+  "lng": -2.2428,
+  "population": 545700,
+  "realEstatePrice": 3000
+},
+{
+  "city": "Edinburgh",
+  "lat": 55.9533,
+  "lng": -3.1883,
+  "population": 531360,
+  "realEstatePrice": 3500
+},
+{
+  "city": "Leicester",
+  "lat": 52.6389,
+  "lng": -1.1333,
+  "population": 509091,
+  "realEstatePrice": 2400
+},
+{
+  "city": "Liverpool",
+  "lat": 53.4083,
+  "lng": -3.0000,
+  "population": 499756,
+  "realEstatePrice": 2600
+},
+{
+  "city": "Nottingham",
+  "lat": 52.9500,
+  "lng": -1.1500,
+  "population": 532347,
+  "realEstatePrice": 2800
+},
+{
+  "city": "Amsterdam",
+  "lat": 52.3740,
+  "lng": 4.8952,
+  "population": 872680,
+  "realEstatePrice": 5500
+},
+{
+  "city": "Rotterdam",
+  "lat": 51.9225,
+  "lng": 4.4792,
+  "population": 651446,
+  "realEstatePrice": 4200
+},
+{
+  "city": "The Hague",
+  "lat": 52.0766,
+  "lng": 4.3007,
+  "population": 544292,
+  "realEstatePrice": 4500
+},
+{
+  "city": "Utrecht",
+  "lat": 52.0907,
+  "lng": 5.1214,
+  "population": 359375,
+  "realEstatePrice": 4000
+},
+{
+  "city": "Eindhoven",
+  "lat": 51.4416,
+  "lng": 5.4697,
+  "population": 235623,
+  "realEstatePrice": 3800
+},
+{
+  "city": "Tilburg",
+  "lat": 51.5555,
+  "lng": 5.0805,
+  "population": 222601,
+  "realEstatePrice": 3500
+},
+{
+  "city": "Groningen",
+  "lat": 53.2193,
+  "lng": 6.5667,
+  "population": 203546,
+  "realEstatePrice": 3200
+},
+{
+  "city": "Almere",
+  "lat": 52.3549,
+  "lng": 5.2154,
+  "population": 202595,
+  "realEstatePrice": 3600
+},
+{
+  "city": "Breda",
+  "lat": 51.5888,
+  "lng": 4.7758,
+  "population": 184546,
+  "realEstatePrice": 3400
+},
+{
+  "city": "Nijmegen",
+  "lat": 51.8425,
+  "lng": 5.8547,
+  "population": 176555,
+  "realEstatePrice": 3300
+},
+{
+  "city": "Zurich",
+  "lat": 47.3769,
+  "lng": 8.5417,
+  "population": 415367,
+  "realEstatePrice": 8000
+},
+{
+  "city": "Geneva",
+  "lat": 46.2044,
+  "lng": 6.1432,
+  "population": 203856,
+  "realEstatePrice": 9500
+},
+{
+  "city": "Basel",
+  "lat": 47.5585,
+  "lng": 7.5733,
+  "population": 175131,
+  "realEstatePrice": 7500
+},
+{
+  "city": "Lausanne",
+  "lat": 46.5196,
+  "lng": 6.6325,
+  "population": 146652,
+  "realEstatePrice": 6800
+},
+{
+  "city": "Bern",
+  "lat": 46.9480,
+  "lng": 7.4474,
+  "population": 133854,
+  "realEstatePrice": 6500
+},
+{
+  "city": "Winterthur",
+  "lat": 47.5054,
+  "lng": 8.7254,
+  "population": 114954,
+  "realEstatePrice": 5800
+},
+{
+  "city": "Lucerne",
+  "lat": 47.0505,
+  "lng": 8.3063,
+  "population": 82052,
+  "realEstatePrice": 6000
+},
+{
+  "city": "St. Gallen",
+  "lat": 47.4247,
+  "lng": 9.3754,
+  "population": 75835,
+  "realEstatePrice": 5500
+},
+{
+  "city": "Lugano",
+  "lat": 46.0045,
+  "lng": 8.9515,
+  "population": 63585,
+  "realEstatePrice": 6200
+},
+{
+  "city": "Biel/Bienne",
+  "lat": 47.1458,
+  "lng": 7.2548,
+  "population": 55461,
+  "realEstatePrice": 5200
+},
+{
+  "city": "Stockholm",
+  "lat": 59.3326,
+  "lng": 18.0649,
+  "population": 975551,
+  "realEstatePrice": 6000
+},
+{
+  "city": "Gothenburg",
+  "lat": 57.7089,
+  "lng": 11.9745,
+  "population": 572779,
+  "realEstatePrice": 4500
+},
+{
+  "city": "Malmö",
+  "lat": 55.6059,
+  "lng": 13.0007,
+  "population": 316588,
+  "realEstatePrice": 4200
+},
+{
+  "city": "Uppsala",
+  "lat": 59.8585,
+  "lng": 17.6389,
+  "population": 230624,
+  "realEstatePrice": 5000
+},
+{
+  "city": "Linköping",
+  "lat": 58.4108,
+  "lng": 15.6215,
+  "population": 163546,
+  "realEstatePrice": 4000
+},
+{
+  "city": "Västerås",
+  "lat": 59.6177,
+  "lng": 16.5545,
+  "population": 154605,
+  "realEstatePrice": 4100
+},
+{
+  "city": "Örebro",
+  "lat": 59.2757,
+  "lng": 15.2054,
+  "population": 150154,
+  "realEstatePrice": 3800
+},
+{
+  "city": "Helsingborg",
+  "lat": 56.0510,
+  "lng": 12.6954,
+  "population": 149154,
+  "realEstatePrice": 4300
+},
+{
+  "city": "Jönköping",
+  "lat": 57.7833,
+  "lng": 14.1667,
+  "population": 141535,
+  "realEstatePrice": 3600
+},
+{
+  "city": "Norrköping",
+  "lat": 58.5915,
+  "lng": 16.1856,
+  "population": 140525,
+  "realEstatePrice": 3500
+}
+]
