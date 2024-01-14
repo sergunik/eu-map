@@ -20,6 +20,7 @@ fetch('capitals.json')
         .addTo(map)
         .bindPopup(`
           <b>${capital.city}</b><br>
+          Country: ${capital.country}<br>
           Population: ${capital.population}<br>
           Average Real Estate Price: €${capital.realEstatePrice}
         `);
